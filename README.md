@@ -6,7 +6,7 @@ I am a Data Analyst with a strong background in data-driven decision support, re
 
 My work focuses on applying analytical techniques to real-world problems, with an emphasis on accuracy, clarity, and actionable outcomes.
 
-##🔍 What I Do
+## 🔍 What I Do
 
 Analyze and interpret datasets to support decision-making
 
@@ -18,7 +18,7 @@ Support monitoring & evaluation and performance tracking
 
 Translate business and program requirements into analytical outputs
 
-##🛠 Technical Skills
+## 🛠 Technical Skills
 
 Data Analysis & Visualization: Excel (Advanced), Tableau, Power BI (DAX)
 
@@ -30,7 +30,7 @@ Analytics Methods: Data Cleaning, Exploratory Data Analysis (EDA), KPI Tracking
 
 Business & M&E: Requirements Gathering, Process Mapping, Reporting, Monitoring & Evaluation
 
-##📊 Featured Projects
+## 📊 Featured Projects
 
 Here you will find projects demonstrating:
 
@@ -44,7 +44,7 @@ Clear documentation and reproducible analysis
 
 Each repository includes a project overview, methodology, and key insights.
 
-##🎯 Professional Interests
+## 🎯 Professional Interests
 
 Data Analyst / Business Analyst roles
 
@@ -54,7 +54,7 @@ Reporting, Dashboards, and Decision Support
 
 Freelance and contract-based analytics projects
 
-##📫 Let’s Connect
+## 📫 Let’s Connect
 
 LinkedIn: www.linkedin.com/in/m-romadan
 
