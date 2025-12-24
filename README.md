@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I’m Mahmoud</h2>
+<h2 align="center">👋Hi, I’m Mahmoud</h2>
 <p align="center"><strong>Data Analyst | Business & Social Impact Analytics</strong></p>
 
 
