@@ -57,6 +57,7 @@ Freelance and contract-based analytics projects
 ## 📫 Let’s Connect
 
 LinkedIn: www.linkedin.com/in/m-romadan
+
 Email: mahmoudra100@gmail.com 
 
 I am open to collaboration, freelance opportunities, and data-focused roles where analytics can drive meaningful impact.
